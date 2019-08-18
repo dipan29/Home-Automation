@@ -11,20 +11,20 @@ In the Adafruit Dashboard add the necessary feeds/buttons necessary for the proj
 
 ### Components List
 
-ESP8266 12e development board(NodeMCU) (http://amzn.to/2BKS7cv)
-4 x 5V Relays (http://amzn.to/2ChddQC)
-4 x 1n4007 Diode (http://amzn.to/2EM4IuD)
-4 x BC547 transistors (http://amzn.to/2oiTbfV)
-4 x 330ohm resistors (http://amzn.to/2ojg8zN)
-16 channel analog multiplexer module (http://amzn.to/2mLwlfl)
-PIR motion sensor (http://amzn.to/2EK1OX2)
-MQ35  sensor
-Sound Sensor (http://amzn.to/2HCYO0z)
-Light Sensor (http://amzn.to/2CcBAPr)
-DHT11 Temperature and Humidity sensor(http://amzn.to/2sPh3fO)
-7805 Regulator IC (http://amzn.to/2CdUvcq)
-9V Power Adapter (http://amzn.to/2CfffAL)
-4 x 2 pin PCB mount screw terminal (http://amzn.to/2EM5Luz)
+1. ESP8266 12e development board(NodeMCU) (http://amzn.to/2BKS7cv)
+2. 4 x 5V Relays (http://amzn.to/2ChddQC)
+3. 4 x 1n4007 Diode (http://amzn.to/2EM4IuD)
+4. 4 x BC547 transistors (http://amzn.to/2oiTbfV)
+5. 4 x 330ohm resistors (http://amzn.to/2ojg8zN)
+6. 16 channel analog multiplexer module (http://amzn.to/2mLwlfl)
+7. PIR motion sensor (http://amzn.to/2EK1OX2)
+8. MQ35 Gas Sensor
+7. Sound Sensor (http://amzn.to/2HCYO0z)
+8. Light Sensor (http://amzn.to/2CcBAPr)
+9. DHT11 Temperature and Humidity sensor(http://amzn.to/2sPh3fO)
+10. 7805 Regulator IC (http://amzn.to/2CdUvcq)
+11. 9V Power Adapter (http://amzn.to/2CfffAL)
+12. 4 x 2 pin PCB mount screw terminal (http://amzn.to/2EM5Luz)
 
 ### Integration with Google Assistant
 
